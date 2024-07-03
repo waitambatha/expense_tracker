@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e6b6747-28e3-4f5f-94ed-a8a048dcbc03" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/authentication/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currencies.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/migrations/0002_auto_20200508_1810.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenses/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/css/adminstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/expensecharts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/getCategoryData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/searchExpenses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/searchIncome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/stats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/static/js/userStats.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/expenseswebsite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/base_site.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/admin/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authentication/activate_account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authentication/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authentication/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authentication/reset-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/authentication/set-newpassword.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base_auth.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/expenses/add_expense.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/expenses/edit-expense.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/expenses/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/expenses/stats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/income/add_income.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/income/edit_income.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/income/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_messages.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/partials/_sidebar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/preferences/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userincome/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userpreferences/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "waitambatha"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/waitambatha/expense_tracker.git",
+    "accountId": "4ce77402-248c-4304-89d9-930e9cfe7375"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2ijFWuuDk681HRGtu4NUK0N4t82" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e6b6747-28e3-4f5f-94ed-a8a048dcbc03" name="Changes" comment="" />
+      <created>1719996126370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719996126370</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
